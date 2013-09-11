@@ -1,0 +1,50 @@
+.contents{
+	width:100%;
+	margin: 0px 0px 0px 0px;
+}
+
+.buttons{
+	width:448px;
+	padding-top:200px;
+	margin:0 auto;
+}
+
+input.btn{
+	width:64px;
+	height:64px;
+	color:#FFF;
+	background-color:#88F;
+	background-repeat:no-repeat;
+	background-position:center center;
+	-moz-box-shadow: 10px 10px 5px #888;
+	-webkit-box-shadow: 10px 10px 5px #888;
+	box-shadow: 10px 10px 5px #888;
+}
+
+.Louder{
+	background-image:url('Louder.png');
+}
+
+.Quieter{
+	background-image:url('Quieter.png');
+}
+
+.Mute{
+	background-image:url('Mute.png');
+}
+
+.PlayPause{
+	background-image:url('PlayPause.png');
+}
+
+.Stop{
+	background-image:url('Stop.png');
+}
+
+.Next{
+	background-image:url('Next.png');
+}
+
+.Previous{
+	background-image:url('Previous.png');
+}
